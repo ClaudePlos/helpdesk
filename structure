@@ -1,5 +1,5 @@
 html
-/templates/top_new.tpl => when you are logout on login page you can change for example link Zaloguj 
+/templates/top_new.tpl => when you are logout on login page you can change for example link Zaloguj. After log in on page you see Wyloguj on right top corner. 
 
 
 libs
