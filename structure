@@ -2,7 +2,7 @@
 home/www/aplikacje/html
 /templates/top_new.tpl => when you are logout on login page you can change for example link Zaloguj. After log in on page you see Wyloguj on right top corner. 
 Done: 
-2021-06-17 -
+2021-06-18 -
 2021-06-14 - 
 2021-06-11 - euro 2020 statred in 2021 :) 
 2021-06-10 - /home/www/aplikacje/modules/apl_iHD/classes/class.HelpdeskAkcje.php
