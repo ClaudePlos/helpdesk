@@ -20,3 +20,5 @@ Do you like spotrs? What type, kind of?
 Where you from? And ask about city? Population? Trafic etc. 
 What you recommend? 
 
+Do you have any plans on vacations? 
+
