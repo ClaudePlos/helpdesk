@@ -8,6 +8,7 @@ Do you want to grab a coffee?
 
 Have you ever been in Poland?
 
+
 How long have you been working for ... ?
 
 Do you like traveling?
