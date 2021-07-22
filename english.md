@@ -1,5 +1,5 @@
 ## 2021-07-22
-#In the dialogue, one of the speakers describes why impressionist paintings are good for offices. Why do you agree or disagree with her?
+# In the dialogue, one of the speakers describes why impressionist paintings are good for offices. Why do you agree or disagree with her?
 It is hard to say. In my opinion impressionist painters are not good for the office. Impressionist paintings showing nature, people and they are full of beautiful color. That is too distracting. Nowadays offices are modern and should have modern paintings because this type of art is very interesting and draws attention. It is important because displaying art in the workplace can elevate employee performance, mood, and physical well-being, as well as bolster interpersonal bonds between employees and clients. Well-considered art decisions for the workplace give workers convenience and attractiveness. What is more, our brains hold onto memorable environmental features, art can usefully function as a landmark, helping people traveling through a space to remember where they have been. In summary, art is a good idea for our office, but we must carefully choose the type of art.
 
 
