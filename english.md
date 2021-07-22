@@ -1,13 +1,12 @@
-## 2021-07-22
+
 # In the dialogue, one of the speakers describes why impressionist paintings are good for offices. Why do you agree or disagree with her?
 It is hard to say. In my opinion impressionist painters are not good for the office. Impressionist paintings showing nature, people and they are full of beautiful color. That is too distracting. Nowadays offices are modern and should have modern paintings because this type of art is very interesting and draws attention. It is important because displaying art in the workplace can elevate employee performance, mood, and physical well-being, as well as bolster interpersonal bonds between employees and clients. Well-considered art decisions for the workplace give workers convenience and attractiveness. What is more, our brains hold onto memorable environmental features, art can usefully function as a landmark, helping people traveling through a space to remember where they have been. In summary, art is a good idea for our office, but we must carefully choose the type of art.
+## 2021-07-22
 
-
-## 2021-07-21
 # Some people believe the Australian beaches are absolutely fantastic. What is there in your country that you would describe as 'absolutely fantastic'?
 Mountains in Poland are, next to the Baltic Sea and lakes, one of the biggest attractions for tourists who value contact with nature. Mountains in Poland include 3 main mountain ranges: Sudetes , Carpathians and Świętokrzyskie Mountains and 28 smaller mountain ranges within them. The highest and the youngest are the Carpathians with the Tatra Mountains, and the oldest and lowest are the Świętokrzyskie Mountains. Those who like mountain hiking can choose among various trails in Poland, including trails suitable for families with children, seniors, and all those who love nature. The town of Zakopane is in the heart of the Polish Tatra Mountains, serving as a starting point for hiking trails for amateurs as well as experienced hikers. There are 275 km of marked hiking trails. The highest peak in Polish Tatras Rysy is 2,499 m but the mountains are rich in trails suitable for families with children, seniors, and all those who love nature.
+## 2021-07-21
 
-## 2021-06-20
 # When you go shopping, do you prefer to be outdoors in the city center or in a shopping mall? Why?
 To answer this question, I have to answer it depending on the situation :) The city center is close to my mind, because I don’t like crowds and close spaces. I feel more comfortable in the fresh air and the best options are various kinds of fairs. But my wife and daughters love shopping malls and sometimes I have to spend time in shopping malls. It is a pleasure for me when I go there to buy something for myself. But when I don’t have plans to buy something for myself it is boring and very often I am nervous and I don’t know wny? Probably it is a waste of time for me but I want to be a good husband and father and I try not to complain when I am in a shopping mall with my family. Fortunately technologies help me and ofen I try to find some place to sit in front of the shop, live ther my girls and surf the internet on my phone.  Thank God for iphone and 5G :) 
-
+## 2021-06-20
