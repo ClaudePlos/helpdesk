@@ -2,6 +2,8 @@
 https://www.linguee.pl/
 
 ## Small talk:
+First, ask about weather.
+
 How are things? 
 
 Do you want to grab a coffee? 
