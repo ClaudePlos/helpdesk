@@ -3,8 +3,9 @@ First Questions?
 2. Did you build this intranet or buy from some vendor? 
 3. What kind of features? 
 4. This intranet is easy to use for every employee? Authorization, mobile version?
-5. Do you have any manuals? 
-6. How to train users to use intranet?  
+5. What kind of informations are the most popular, importat for users?
+6. Do you have any manuals? 
+7. How to train users to use intranet?  
 
 Other:
 1. In this intranet, Does the employees have some communication with HR?
