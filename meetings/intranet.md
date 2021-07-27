@@ -1,5 +1,5 @@
 First Questions?
-1. What do you have in this intranet for employees?
+1. What do you have in this intranet for employees? What kind of information you have in intranet for employess?
 2. Did you build this intranet or buy from some vendor? 
 3. What kind of features? 
 4. This intranet is easy to use for every employee? Authorization, mobile version?
