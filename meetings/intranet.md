@@ -1,8 +1,8 @@
  ## [2021-07-28 09:39] klaudiusz.skowronski (Gość)
     Hi Alessio, Congratulations on winning Euro 2020. It was a pleasure watching how the Italian team played in the final :)
     In the morning I was talking with Anna from HR and we have one more very important question.
-    Could you give us information about cost implementation Marco in Rekkep Poland?  
-    If you have a licence on Marco Intranet in Reekep, is it possible to implement Marco in Rekeep Poland for free?
+    Could you give us information about cost implementation Marco in company Poland?  
+    If you have a licence on Marco Intranet in x-Company, is it possible to implement Marco in Poland for free?
 
 
 
