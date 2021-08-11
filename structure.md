@@ -5,7 +5,7 @@ Done:
 2021-08-11 - add link to others menu  </br>
 # /home/www/aplikacje/modules/apl_iHD/templates/top.tpl
 
-added: <a href="http://192.168.0.93:8084/zupui/login/{$usrname}" target="_blank" style="text-decoration: none;"><b>Formularz uprawnień &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></a>
+added: <a href="http://192.168.0.93:8084/zupui/login/{$username}" target="_blank" style="text-decoration: none;"><b>Formularz uprawnień &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></a>
 
 </br></br>
 2021-06-30 </br>
