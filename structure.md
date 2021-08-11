@@ -15,7 +15,8 @@ Done:
 line 536 changed  from href"' .MODULE_URL / ' ....  -> line before i taped: $MODULE_URL = "https://task.naprzod.pl/Helpdesk";(zmiana pod link mailowy)</br>
 2021-05-28 - klaudiusz - added ?variabels=value</br>
 2021-05-27 - klaudiusz - added link to other page witch form order premmision to applications build in angular </br>
-# home/www/aplikacje/html/templates/top_new.tpl => when you are logout on login page you can change for example link Zaloguj. </br>
+# home/www/aplikacje/html/templates/top_new.tpl <br> 
+=> when you are logout on login page you can change for example link Zaloguj. </br>
 After log in on page you see Wyloguj on right top corner. </br>
 </br>
 
