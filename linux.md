@@ -1,6 +1,10 @@
 # command: 
 killall -9 Java</br></br>
-chmod -R 777 /home/user — wszyscy będą mogli zmieniać zawartość katalogu /home/user oraz jego podkatalogów, jak też czytać go i wykonywać zawarte w nim pliki
+chmod -R 777 /home/user — wszyscy będą mogli zmieniać zawartość katalogu /home/user oraz jego podkatalogów, jak też czytać go i wykonywać zawarte w nim pliki</br></br>
+yum search ntp //if you wnant find the package </br></br>
+sudo timedatectl set-timezone Europe/Warsaw  //change timezone 
+
+
 
 # mcedit
 copy => Between Windows and PuTTY </br>
