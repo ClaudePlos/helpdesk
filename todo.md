@@ -1,4 +1,4 @@
 # 2021-08-02
-- vatApli
-- ściągnij zdjęcia z iPhoen 
-- 
+
+# 2021-08-02
+-
