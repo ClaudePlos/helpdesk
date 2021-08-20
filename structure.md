@@ -1,7 +1,7 @@
 192.168.0.249 after login type SU
 
 Done: 
-2021-08-19 </br>
+2021-08-20 </br>
 2021-08-11 - add link to others menu  </br>
 # /home/www/aplikacje/modules/apl_iHD/templates/top.tpl
 
