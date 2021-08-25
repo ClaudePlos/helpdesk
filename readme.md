@@ -1,3 +1,5 @@
+obstacles - przeszkody 
+
 ## Link:
 https://www.linguee.pl/
 
