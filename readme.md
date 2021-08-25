@@ -1,4 +1,4 @@
-obstacles - przeszkody 
+obstacles - przeszkody </br>
 used inventory
 
 ## Link:
