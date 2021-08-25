@@ -1,4 +1,5 @@
 obstacles - przeszkody 
+used inventory
 
 ## Link:
 https://www.linguee.pl/
