@@ -1,3 +1,4 @@
+emohasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
 used inventory
 
