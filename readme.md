@@ -1,4 +1,4 @@
-emohasize - podkreślić znaczenie</br>
+emphasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
 used inventory
 
