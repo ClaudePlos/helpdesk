@@ -1,3 +1,4 @@
+Ok
 emphasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
 used inventory
