@@ -1,4 +1,4 @@
-We will see Ok</br>
+utilities - narzędzia </br>
 emphasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
 used inventory
