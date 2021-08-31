@@ -1,3 +1,6 @@
+# 2021-08-31
+- https://www.youtube.com/watch?v=7u1Rz5OSLOA - pull request 
+
 # 2021-08-25
 - https://www.tesla.com/AI
 
