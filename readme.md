@@ -1,3 +1,4 @@
+obtain - uzyskać </br>
 utilities - narzędzia </br>
 emphasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
