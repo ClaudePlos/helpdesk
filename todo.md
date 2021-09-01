@@ -6,4 +6,3 @@ Papa </br>
 Kotłownia </br>
 Trawnik - regenreacja </br>
 --</br>
-Lokata milenium 
