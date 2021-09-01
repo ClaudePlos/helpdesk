@@ -1,3 +1,5 @@
+therefore - w związku z tym
+diversity - różnorodność
 obtain - uzyskać </br>
 utilities - narzędzia </br>
 emphasize - podkreślić znaczenie</br>
