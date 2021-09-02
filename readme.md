@@ -1,3 +1,5 @@
+mindset - sposób myślenia
+MVP - Minimum Viable Product
 therefore - w związku z tym
 diversity - różnorodność
 obtain - uzyskać </br>
