@@ -7,6 +7,7 @@
 # 2021.9.3
 movies for Paulina \
 Speexx - task  write answerr to questions \
+KPI?
 Done: \
 
 # 2021.9.2
