@@ -1,7 +1,6 @@
 # 2021.9.1
 Raport agencje </br>
-
-Mvp main set 
+Speexx - task  write answerr to questions </br> 
 
 # Others
 Papa </br>
