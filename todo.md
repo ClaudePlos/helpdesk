@@ -15,10 +15,12 @@ Ewa report \
 Docker to project Andrej \
 
 Done: \
-Kadry call \
-Raport agencje \
-Rezerwa Catermed \
-ST, usuwanie PM
+- Kadry call 
+- Raport agencje 
+- Rezerwa Catermed 
+- ST, usuwanie PM
+- Listy płac, zm. dat
+
 
 # Others
 Papa </br>
