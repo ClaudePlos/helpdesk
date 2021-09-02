@@ -1,7 +1,7 @@
-How much does it take usually /
-mindset - sposób myślenia /
-therefore - w związku z tym /
-diversity - różnorodność /
+How much does it take usually - ile to zwykle trwa\
+mindset - sposób myślenia \
+therefore - w związku z tym \
+diversity - różnorodność \
 obtain - uzyskać </br>
 utilities - narzędzia </br>
 emphasize - podkreślić znaczenie</br>
