@@ -1,3 +1,7 @@
+# 2021.9.6
+- agencje 
+Done:
+
 # 2021.9.3
 movies for Paulina \
 Speexx - task  write answerr to questions \
@@ -12,6 +16,7 @@ Done: \
 Kadry call \
 Raport agencje \
 Rezerwa Catermed \
+ST, usuwanie PM
 
 # Others
 Papa </br>
