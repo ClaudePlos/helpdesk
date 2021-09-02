@@ -1,5 +1,4 @@
 mindset - sposób myślenia
-MVP - Minimum Viable Product
 therefore - w związku z tym
 diversity - różnorodność
 obtain - uzyskać </br>
@@ -7,6 +6,16 @@ utilities - narzędzia </br>
 emphasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
 used inventory
+
+
+# IT dictionary:
+1. Continuous Integration (CI) and Continuous Delivery (CD)
+2. Docker
+3. Markdown - language to README
+4. Github project to view list https://github.com/ > https://github1s.com/
+5. MVP - Minimum Viable Product
+6. mindset - sposób myślenia
+
 
 ## Link:
 https://www.linguee.pl/
