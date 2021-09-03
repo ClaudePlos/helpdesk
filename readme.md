@@ -18,6 +18,7 @@ used inventory
 4. Github project to view list https://github.com/ > https://github1s.com/
 5. MVP - Minimum Viable Product
 6. mindset - sposób myślenia
+7. Key Performance Indicators, KPI) – finansowe i niefinansowe wskaźniki stosowane jako mierniki w procesach pomiaru stopnia realizacji celów organizacji.
 
 
 ## Link:
