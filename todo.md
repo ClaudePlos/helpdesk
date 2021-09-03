@@ -24,7 +24,7 @@ Done: \
 
 
 # Others
-Papa </br>
+Papa, nawóz </br>
 Kotłownia </br>
 Trawnik - regenreacja </br>
 --</br>
