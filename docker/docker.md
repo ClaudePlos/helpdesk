@@ -34,5 +34,6 @@ docker container stop ID
 
 # COMMANDS
 docker images \
-docker ps -a
+docker ps (only run container)
+docker ps -a (all container, run and stop container)
 
