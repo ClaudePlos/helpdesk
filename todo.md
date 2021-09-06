@@ -1,3 +1,7 @@
+# 2021.9.7
+- blokada kont księgowych (spr ST, EK i umowy)
+- 
+
 # 2021.9.6
 - agencje 
 - matlak i Kuchnia Mleczna
