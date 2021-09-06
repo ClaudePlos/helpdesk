@@ -12,7 +12,10 @@ VOLUME /tmp \
 ADD nap_tenders-1.0-SNAPSHOT.jar app.jar \
 ENTRYPOINT ["java","-jar","/app.jar"]
 
-3. 
+3. In shell put commane: \
+docker build -t nap_tenders . << this dot is important 
+
+4. docker images (you have list of images)\ 
 
 # COMMANDS
 docker images \
