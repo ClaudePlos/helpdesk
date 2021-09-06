@@ -15,7 +15,14 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 3. In shell put commane: \
 docker build -t nap_tenders . << this dot is important 
 
-4. docker images (you have list of images)\ 
+4. docker images (you have list of images)
+5. Run with ports and add to the list containers: \
+docker run -p8181:8181 cashregister \
+/* now you have run and you can test on browser https://localhost:8181 \
+*  If you close cmd the container will stop \
+*/ 
+
+6.
 
 # COMMANDS
 docker images \
