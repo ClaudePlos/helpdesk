@@ -1,16 +1,15 @@
 # 2021.9.7
 - blokada kont księgowych (spr ST, EK i umowy)
-- 
+- 11.30 Przetargi aplikacja 
 
 # 2021.9.6
 - agencje 
-- matlak i Kuchnia Mleczna
-- 10.30 zoom Agencje
-- 11.30 Przetargi aplikacja 
-- Speexx - task  write answerr to questions \
-- Ewa report \
+- matlak i Kuchnia Mleczna \
 - Docker to project Andrej \
 </br>Done:
+- 10.30 zoom Agencje
+- Speexx - task  write answerr to questions \
+- Ewa report \
 
 # 2021.9.3
 Done: \
