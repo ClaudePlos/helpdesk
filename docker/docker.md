@@ -21,7 +21,7 @@ docker run -p8181:8181 nap_tenders \
 ( now you have run and you can test on browser https://localhost:8181 If you close cmd in windows or shell the container will stop )
 6. Close to coitarnet from new cmd: \
 docker ps \
->> get ID \
+get ID \
 docker container stop ID 
 
 # COMMANDS
