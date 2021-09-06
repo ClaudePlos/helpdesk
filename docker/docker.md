@@ -5,3 +5,6 @@ sudo systemctl start docker \
 sudo docker run hello-world \
 
 # COMMANDS
+docker images \
+docker ps -a
+
