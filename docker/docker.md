@@ -29,6 +29,9 @@ docker ps \
 get ID \
 docker container stop ID 
 
+## Update project 
+1.
+
 # COMMANDS
 docker images \
 docker ps -a
