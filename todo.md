@@ -8,7 +8,7 @@
 - apka dla Agencji 
 - matlak i Kuchnia Mleczna 
 - Docker to project Andrej 
-Done:
+</br>Done:
 - 11.30 Przetargi aplikacja
 
 # 2021.9.6
