@@ -4,7 +4,8 @@
 # 2021.9.8
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component
-- fluenbe homework 
+- fluenbe homework \
+- odpisz marzenie z ProfUs 
 # 2021.9.7
 - apka dla Agencji 
 - matlak i Kuchnia Mleczna 
