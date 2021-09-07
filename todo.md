@@ -3,7 +3,7 @@
 - 
 # 2021.9.8
 - blokada kont księgowych (spr ST, EK i umowy)
-- 
+- https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component
 # 2021.9.7
 - apka dla Agencji 
 - matlak i Kuchnia Mleczna 
@@ -11,6 +11,7 @@
 </br>Done:
 - 11.30 Przetargi aplikacja
 
+------------------------------------------------------------------------
 # 2021.9.6
 Done:
 - 10.30 zoom Agencje
