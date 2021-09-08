@@ -1,11 +1,11 @@
-# 2021.9.10
+# 2021.9.10  :star2:
 - apka do testowania, czy strona działa 
 - apka dla Agencji 
 - matlak i Kuchnia Mleczna 
 - Docker to project Andrej 
 - Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
-- https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component
+- https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 :tada:Done:
 
 # 2021.9.8
@@ -13,6 +13,7 @@
 - fluenbe homework \ 
 - spotkanie z Kowalska odnośnie Bansari
 - kodownaie korekt do dodatkowych materiałów 
+- ksiegownaie list
 
 # 2021.9.7
 :tada:Done:
