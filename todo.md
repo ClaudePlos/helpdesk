@@ -3,15 +3,19 @@
 - apka dla Agencji 
 - matlak i Kuchnia Mleczna 
 - Docker to project Andrej 
-# 2021.9.8
+- Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component
-- fluenbe homework \
-- odpisz marzenie z ProfUs 
-<br>Doen:
+:tada:Done:
+
+# 2021.9.8
+:tada:Doen:
+- fluenbe homework \ 
+- spotkanie z Kowalska odnośnie Bansari
+- kodownaie korekt do dodatkowych materiałów 
 
 # 2021.9.7
-</br>Done:
+:tada:Done:
 - 11.30 Przetargi aplikacja - spotkanie 
 - budowa aplikacji dla Agenji 
 - kisegowanie list
