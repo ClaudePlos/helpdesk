@@ -1,4 +1,4 @@
-# 2021.9.10  :star2:
+# 2021.9.13  :star2:
 - apka do testowania, czy strona działa 
 - apka dla Agencji 
 - matlak i Kuchnia Mleczna 
@@ -6,7 +6,11 @@
 - Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
+
+# 2021.9.10  :star2:
 :tada:Done:
+- app Dodatkowe Materiały 
+- wgranie fix do Egerii
 
 # 2021.9.8
 :tada:Doen:
