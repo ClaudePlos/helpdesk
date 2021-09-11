@@ -11,6 +11,7 @@
 :tada:Done:
 - app Dodatkowe Materiały 
 - wgranie fix do Egerii
+- Bug na FZU
 
 # 2021.9.8
 :tada:Doen:
