@@ -11,6 +11,12 @@ emphasize - podkreślić znaczenie</br>
 obstacles - przeszkody </br>
 used inventory
 
+*Zero conditional: if (or when) + present simple, present simple
+*1st conditional: if + present simple, will
+*2nd conditional: if + past simple, would/could/might
+*3rd conditional: if + past perfect, would have/could have/might have
+*Mixed conditionals: if + past tenses, would
+
 
 # IT dictionary:
 1. Continuous Integration (CI) and Continuous Delivery (CD)
