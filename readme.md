@@ -1,4 +1,4 @@
-convenient - wygodny
+convenient - wygodny \
 Notice / unnotice \
 whether - czy (czyt tak jak weather) \
 How much does it take usually - ile to zwykle trwa\
