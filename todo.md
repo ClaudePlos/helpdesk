@@ -1,10 +1,15 @@
-# 2021.9.14  :star2:
+TODO:star2:
 - apka do testowania, czy strona działa 
 - apka dla Agencji 
 - Docker to project Andrej 
 - Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
+
+# 2021.9.14 
+:tada:Done:
+- poprawki korekty
+- MP > zestawienie 5 i 7 to excel 
 
 # 2021.9.13 
 :tada:Done:
