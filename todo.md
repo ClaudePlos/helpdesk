@@ -7,6 +7,10 @@ TODO:star2:
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 - raporty kasowe > doanie raportów 
 
+# 2021.9.16 
+:tada:Done:
+- CI / CD i.naprzod
+
 # 2021.9.15 
 :tada:Done:
 - Agencja pracy dodane na i.nap i grafiki
