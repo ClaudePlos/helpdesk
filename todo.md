@@ -5,6 +5,13 @@ TODO:star2:
 - Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
+- raporty kasowe > doanie raportów 
+
+# 2021.9.15 
+:tada:Done:
+- Agencja pracy dodane na i.nap i grafiki
+- Dobrski, spradzenie 150 zł 
+- i.naprzod filtry
 
 # 2021.9.14 
 :tada:Done:
