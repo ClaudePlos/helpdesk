@@ -10,6 +10,7 @@ TODO:star2:
 # 2021.9.16 
 :tada:Done:
 - CI / CD i.naprzod
+- sportowanie po dacie zatrudnienia 
 
 # 2021.9.15 
 :tada:Done:
