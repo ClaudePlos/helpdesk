@@ -11,6 +11,7 @@ TODO:star2:
 :tada:Done:
 - CI / CD i.naprzod
 - sportowanie po dacie zatrudnienia 
+- 5 i 702 jolmark
 
 # 2021.9.15 
 :tada:Done:
