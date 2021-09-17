@@ -7,7 +7,7 @@ TODO:star2:
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 - raporty kasowe > doanie raportów 
 
-# 2021.9.16 
+# 2021.9.17
 :tada:Done:
 - CI / CD i.naprzod
 - sortowanie po dacie zatrudnienia 
