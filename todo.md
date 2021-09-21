@@ -12,6 +12,7 @@ TODO:star2:
 :tada:Done:
 - walka z zamówieniami i dietą łatwo strawną
 - MPK dla prezesa, zestawienie 
+- raport sk pokazujące zajętecie MPK
 - 
 
 ### 2021.9.20
