@@ -6,7 +6,8 @@ TODO:star2:
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 - qlik
-- Poprawki dla raportów 
+- Poprawki dla raportów RK wysłane na maila
+- ZABEZPIECZENIE na raporcie backlog
 
 ### 2021.9.20
 :tada:Done:
