@@ -5,45 +5,51 @@ TODO:star2:
 - Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
-- raporty kasowe > doanie raportów 
+- qlik
 
-# 2021.9.17
+
+### 2021.9.20
+:tada:Done:
+- raporty dla RK (raporty kasowe > doanie raportów )
+- 
+
+### 2021.9.17
 :tada:Done:
 - CI / CD i.naprzod
 - sortowanie po dacie zatrudnienia 
 - 5 i 702 jolmark
 - sprawdzenie salda TD
 
-# 2021.9.15 
+### 2021.9.15 
 :tada:Done:
 - Agencja pracy dodane na i.nap i grafiki
 - Dobrski, spradzenie 150 zł 
 - i.naprzod filtry
 
-# 2021.9.14 
+### 2021.9.14 
 :tada:Done:
 - poprawki korekty
 - MP > zestawienie 5 i 7 to excel 
 
-# 2021.9.13 
+### 2021.9.13 
 :tada:Done:
 - matlak i Kuchnia Mleczna 
 - RK sprawdzenie 
 
-# 2021.9.10  :star2:
+### 2021.9.10  :star2:
 :tada:Done:
 - app Dodatkowe Materiały 
 - wgranie fix do Egerii
 - Bug na FZU
 
-# 2021.9.8
+### 2021.9.8
 :tada:Doen:
 - fluenbe homework \ 
 - spotkanie z Kowalska odnośnie Bansari
 - kodownaie korekt do dodatkowych materiałów 
 - ksiegownaie list
 
-# 2021.9.7
+### 2021.9.7
 :tada:Done:
 - 11.30 Przetargi aplikacja - spotkanie 
 - budowa aplikacji dla Agenji 
