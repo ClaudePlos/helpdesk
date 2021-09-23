@@ -7,11 +7,12 @@ TODO:star2:
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 - qlik
 - Poprawki dla raportów RK wysłane na maila
-- ZABEZPIECZENIE na raporcie backlog
 
 ### 2021.9.23
 :tada:Done:
 - poprawki do RK
+- ZABEZPIECZENIE na raporcie backlog
+- 
 
 ### 2021.9.21
 :tada:Done:
