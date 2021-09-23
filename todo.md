@@ -9,12 +9,15 @@ TODO:star2:
 - Poprawki dla raportów RK wysłane na maila
 - ZABEZPIECZENIE na raporcie backlog
 
-### 2021.9.20
+### 2021.9.23
+:tada:Done:
+- poprawki do RK
+
+### 2021.9.21
 :tada:Done:
 - walka z zamówieniami i dietą łatwo strawną
 - MPK dla prezesa, zestawienie 
-- raport sk pokazujące zajętecie MPK
-- 
+- raport sk pokazujące zajętecie MPK Mapa
 
 ### 2021.9.20
 :tada:Done:
