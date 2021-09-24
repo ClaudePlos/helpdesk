@@ -9,11 +9,15 @@ TODO:star2:
 - Poprawki dla raportów RK wysłane na maila
 - i.napr - kierownicy widzą listy ZFRON 
 
+### 2021.9.24
+:tada:Done:
+- spradzenie zgłoszenia od Bartka
+
 ### 2021.9.23
 :tada:Done:
 - poprawki do RK
 - ZABEZPIECZENIE na raporcie backlog
-- 
+
 
 ### 2021.9.21
 :tada:Done:
