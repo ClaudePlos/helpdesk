@@ -13,7 +13,8 @@ TODO:star2:
 - RK zmiana pobierania uprawnień do KAS 
 - update RK CI / CD
 - Stany żywionych duża zmiana zapisywania tylko zmienionych wierszy 
-- xml pod pity pracownicze dla Aplikacji portal 
+- xml pod pity pracownicze dla Aplikacji portal
+- zam - poprawka kodu zapisywanwania i info o userze  
 
 ### 2021.9.24
 :tada:Done:
