@@ -8,6 +8,10 @@ TODO:star2:
 - i.napr - kierownicy widzą listy ZFRON 
 - qlik
 
+### 2021.9.28
+:tada:Done:
+- style - kolory na raportach RK
+
 ### 2021.9.27
 :tada:Done:
 - RK zmiana pobierania uprawnień do KAS 
