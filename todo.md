@@ -5,18 +5,24 @@ TODO:star2:
 - Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
-- qlik
-- Poprawki dla raportów RK wysłane na maila
 - i.napr - kierownicy widzą listy ZFRON 
+
+### 2021.9.27
+:tada:Done:
+- RK zmiana pobierania uprawnień do KAS 
+- qlik
 
 ### 2021.9.24
 :tada:Done:
 - spradzenie zgłoszenia od Bartka
+- zestawienie SK - ostateczna wersja 
+- projekt HL7  
 
 ### 2021.9.23
 :tada:Done:
 - poprawki do RK
 - ZABEZPIECZENIE na raporcie backlog
+- Poprawki dla raportów RK wysłane na maila
 
 
 ### 2021.9.21
