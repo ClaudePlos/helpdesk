@@ -6,11 +6,12 @@ TODO:star2:
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 - i.napr - kierownicy widzą listy ZFRON 
+- qlik
 
 ### 2021.9.27
 :tada:Done:
 - RK zmiana pobierania uprawnień do KAS 
-- qlik
+- update RK
 
 ### 2021.9.24
 :tada:Done:
