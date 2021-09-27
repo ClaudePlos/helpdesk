@@ -11,7 +11,9 @@ TODO:star2:
 ### 2021.9.27
 :tada:Done:
 - RK zmiana pobierania uprawnień do KAS 
-- update RK
+- update RK CI / CD
+- Stany żywionych duża zmiana zapisywania tylko zmienionych wierszy 
+- xml pod pity pracownicze dla Aplikacji portal 
 
 ### 2021.9.24
 :tada:Done:
