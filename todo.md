@@ -7,6 +7,7 @@ TODO:star2:
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
 - i.napr - kierownicy widzą listy ZFRON 
 - qlik
+- zwolnienie okolicznościowe blokada na grafikach 
 
 ### 2021.9.28
 :tada:Done:
