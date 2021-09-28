@@ -11,6 +11,7 @@ TODO:star2:
 ### 2021.9.28
 :tada:Done:
 - style - kolory na raportach RK
+- struktura tabel do generatora raportów
 
 ### 2021.9.27
 :tada:Done:
