@@ -9,7 +9,13 @@ TODO:star2:
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
 
-### 2021.9.28
+### 2021.10.1
+:tada:Done:
+- ZAM - big issue 
+- ksiegowanie dla MP
+- praca z Waldkiem nad Bensari 
+
+### 2021.9.30
 :tada:Done:
 - odtwierdzenie PK
 - i.naprzod - blokada dni i sprawdzenie na kartach 
