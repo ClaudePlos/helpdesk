@@ -9,6 +9,11 @@ TODO:star2:
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
 
+
+### 2021.10.4
+:tada:Done:
+- agencje i dokumenty
+
 ### 2021.10.1
 :tada:Done:
 - ZAM - big issue 
