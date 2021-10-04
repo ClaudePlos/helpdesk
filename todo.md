@@ -12,7 +12,9 @@ TODO:star2:
 
 ### 2021.10.4
 :tada:Done:
-- agencje i dokumenty
+- agencje i dokumenty (BaskEnd)
+- sprawdzenie księgowania i coś z Faktura
+- minTodo: (faktury, pauline: info do Bartka)
 
 ### 2021.10.1
 :tada:Done:
