@@ -1,3 +1,5 @@
+https://sklep.jack-wolfskin.pl/blog/snieznik
+
 TODO:star2:
 - apka do testowania, czy strona działa 
 - apka dla Agencji 
