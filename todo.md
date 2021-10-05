@@ -11,6 +11,10 @@ TODO:star2:
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
 
+### 2021.10.5
+:tada:Done:
+- agency
+- szymocha raport 
 
 ### 2021.10.4
 :tada:Done:
