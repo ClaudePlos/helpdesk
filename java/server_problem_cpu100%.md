@@ -5,4 +5,8 @@
 5. in command line: jcmd 139533 help >>> lista komend, nie wiem po co to
 6. in command line: jcmd 139533 Thread.print > td.txt >>> po wykonaniu wejdź do pliku i znajdź 2210b, powinno pokazać klasę javy i linię kodu tam gdzie jest problem i 100% obciążenie 
 
+
+top -p "$(pgrep -d ',' java)"  >>> oglądasz tylko procesy java 
+
+
 END
