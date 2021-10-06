@@ -11,6 +11,12 @@ TODO:star2:
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
 
+### 2021.10.7
+- zadzwonic do Mleczko 
+:tada:Done:
+
+
+
 ### 2021.10.5
 :tada:Done:
 - agency
