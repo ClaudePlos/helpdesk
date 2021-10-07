@@ -13,8 +13,8 @@ TODO:star2:
 - zwolnienie okolicznościowe blokada na grafikach 
 
 ### 2021.10.7
-- zadzwonic do Mleczko 
 :tada:Done:
+- zadzwonic do Mleczko
 
 
 
