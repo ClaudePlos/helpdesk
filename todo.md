@@ -1,4 +1,4 @@
-https://sklep.jack-wolfskin.pl/blog/snieznik
+https://sklep.jack-wolfskin.pl/blog/snieznik <br>
 NFOŚiGW
 
 TODO:star2:
