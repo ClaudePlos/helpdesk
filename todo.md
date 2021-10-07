@@ -1,4 +1,5 @@
 https://sklep.jack-wolfskin.pl/blog/snieznik
+NFOŚiGW
 
 TODO:star2:
 - apka do testowania, czy strona działa 
