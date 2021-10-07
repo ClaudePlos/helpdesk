@@ -1,4 +1,4 @@
-Śnieżnik: <br>
+Śnieżnik (Kletno): <br>
 BP: <br>
 - Łask
 - Sieradz
