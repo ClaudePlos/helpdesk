@@ -15,6 +15,7 @@ TODO:star2:
 ### 2021.10.7
 :tada:Done:
 - zadzwonic do Mleczko
+- FISK
 
 
 
