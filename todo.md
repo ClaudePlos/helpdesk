@@ -1,5 +1,9 @@
 Śnieżnik: <br>
 BP: <br>
+- Łask
+- Sieradz
+- Kępno
+- Wrocław
 - Niemcza
 
 https://sklep.jack-wolfskin.pl/blog/snieznik <br>
