@@ -27,6 +27,18 @@ used inventory
 6. mindset - sposób myślenia
 7. Key Performance Indicators, KPI) – finansowe i niefinansowe wskaźniki stosowane jako mierniki w procesach pomiaru stopnia realizacji celów organizacji.
 
+Slang:
+1. gutted - disappointment
+2. chill - relax
+3. fiver - 5 pound
+4. knackered - to be tired 
+5. bloke - man
+6. ace - gret 
+7. broke - don't have money
+8. lass - girl
+9. mate - friend, bro
+10. Alright? 
+
 
 ## Link:
 https://www.linguee.pl/
