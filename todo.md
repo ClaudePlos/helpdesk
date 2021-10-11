@@ -1,12 +1,3 @@
-Śnieżnik (Kletno): <br>
-BP: <br>
-- Łask
-- Sieradz
-- Kępno
-- Wrocław
-- Niemcza
-
-https://sklep.jack-wolfskin.pl/blog/snieznik <br>
 NFOŚiGW
 
 TODO:star2:
@@ -22,13 +13,13 @@ TODO:star2:
 
 ### 2021.10.11
 - wgrać wyposażenie 
+- J.SZ
+- 
 
 ### 2021.10.7
 :tada:Done:
 - zadzwonic do Mleczko
 - FISK
-
-
 
 ### 2021.10.5
 :tada:Done:
