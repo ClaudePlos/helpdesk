@@ -13,7 +13,8 @@ TODO:star2:
 
 ### 2021.10.13
 - agencje dalesz prace nad raportem 
-- i.nap dodać autostrady
+- i.nap dodać autostrady, update: Nap, INapApiLib, NApWfFIN
+- wywalenie ZFRON z list na i.naprzod
 
 ### 2021.10.11
 - wgrać wyposażenie 
