@@ -12,7 +12,8 @@ TODO:star2:
 - zwolnienie okolicznościowe blokada na grafikach 
 
 ### 2021.10.13
-- agencje dokończyć
+- agencje dalesz prace nad raportem 
+- i.nap dodać autostrady
 
 ### 2021.10.11
 - wgrać wyposażenie 
