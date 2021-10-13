@@ -12,6 +12,9 @@ TODO:star2:
 - zwolnienie okolicznościowe blokada na grafikach 
 - wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
 
+### 2021.10.14
+- Dodanie i okodowanie OTLW
+
 ### 2021.10.13
 - agencje dalesz prace nad raportem 
 - i.nap dodać autostrady, update: Nap, INapApiLib, NApWfFIN
