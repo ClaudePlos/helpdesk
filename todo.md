@@ -10,6 +10,7 @@ TODO:star2:
 - i.napr - kierownicy widzą listy ZFRON 
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
+- wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
 
 ### 2021.10.13
 - agencje dalesz prace nad raportem 
