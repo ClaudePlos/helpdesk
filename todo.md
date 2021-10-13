@@ -11,6 +11,9 @@ TODO:star2:
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
 
+### 2021.10.13
+- agencje dokończyć
+
 ### 2021.10.11
 - wgrać wyposażenie 
 - J.SZ
