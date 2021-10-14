@@ -1,7 +1,7 @@
 
 
 1.8.0 Pobór \
-2.8.0 Wysłano \
+2.8.0 Wysłano - przy liczeniu pamietaj że 20% zabiera PGE, czyli 2021-10-14 2.9x0.8 = 2,32 kW\
 Cały zapotrzbowanie - wzór: Falownik - 2.8.0 + 1.8.0
 
 | Date             |     1.8.0     |  2.8.0 | Falownik | Całe zapo. |
