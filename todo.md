@@ -12,6 +12,13 @@ TODO:star2:
 - zwolnienie okolicznościowe blokada na grafikach 
 - wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
 
+### Home:
+- leasing
+- pod i vat
+
+### 2021.10.18
+- 
+
 ### 2021.10.14
 - Dodanie i okodowanie OTLW
 
