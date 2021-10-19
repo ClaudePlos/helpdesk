@@ -16,9 +16,12 @@ TODO:star2:
 - leasing
 - pod i vat
 
+### 2021.10.19
+- agencje - update raport
+- OTLW update code
+
 ### 2021.10.18
 - agencje
-- 
 
 ### 2021.10.14
 - Dodanie i okodowanie OTLW
