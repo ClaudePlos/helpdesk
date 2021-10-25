@@ -13,8 +13,10 @@ TODO:star2:
 - wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
 
 ### Home:
-- leasing
-- pod i vat
+
+### 2021.10.19
+- configuration component 421 in HR
+- 
 
 ### 2021.10.19
 - agencje - update raport
