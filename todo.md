@@ -16,7 +16,7 @@ TODO:star2:
 
 ### 2021.10.19
 - configuration component 421 in HR
-- 
+- tax 32% report 
 
 ### 2021.10.19
 - agencje - update raport
