@@ -3,11 +3,8 @@ NFOŚiGW
 TODO:star2:
 - apka do testowania, czy strona działa 
 - apka dla Agencji 
-- Docker to project Andrej 
-- Admnistracja dla Prof
 - blokada kont księgowych (spr ST, EK i umowy)
 - https://www.bezkoder.com/angular-12-jwt-auth/#Login_Component \
-- i.napr - kierownicy widzą listy ZFRON 
 - qlik
 - zwolnienie okolicznościowe blokada na grafikach 
 - wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
@@ -17,6 +14,7 @@ TODO:star2:
 ### 2021.10.19
 - configuration component 421 in HR
 - tax 32% report 
+- meeting with management board about account plan on next year
 
 ### 2021.10.19
 - agencje - update raport
