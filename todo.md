@@ -11,7 +11,11 @@ TODO:star2:
 
 ### Home:
 
-### 2021.10.19
+### 2021.10.26
+- CI/CD i.nap for payslip !
+- szymocha toking about accounting plan for next year !
+
+### 2021.10.25
 - configuration component 421 in HR
 - tax 32% report 
 - meeting with management board about account plan on next year
