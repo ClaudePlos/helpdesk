@@ -1,4 +1,4 @@
-NFOŚiGW (skowronska.anka@gmail.com K....! )
+NFOŚiGW
 
 TODO:star2:
 - apka do testowania, czy strona działa 
