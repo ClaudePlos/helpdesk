@@ -15,6 +15,11 @@ TODO:star2:
 - kupić kabel iPhone magnes
 - light with sencore move 
 
+
+### 2021.11.03
+- close year 2020 in SI
+- 
+
 ### 2021.10.26
 - CI/CD i.nap for payslip !
 - szymocha toking about accounting plan for next year !
