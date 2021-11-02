@@ -21,6 +21,7 @@ TODO:star2:
 - close year 2020 in SI
 - invoices
 - added blockade for zam on hospitals 
+- foreigners app update on search 
 
 ### 2021.10.26
 - CI/CD i.nap for payslip !
