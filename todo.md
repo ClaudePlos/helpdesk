@@ -11,13 +11,21 @@ TODO:star2:
 - wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
 - api mail for end process in i.nap for not accept application for new employee and when someone accept your leave 
 
+### Business Eng:
+- highly significant:
+- crucial 
+- in my point of view 
+- 
 
 ### Home:
 - kupić kabel iPhone magnes
 - light with sencore move 
 
-
 ### 2021.11.03
+- working on application to permmisions > Angular 
+- 
+
+### 2021.11.02
 - close year 2020 in SI
 - invoices
 - added blockade for zam on hospitals 
