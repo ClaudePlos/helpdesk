@@ -21,9 +21,12 @@ TODO:star2:
 - kupić kabel iPhone magnes
 - light with sencore move 
 
+### 2021.11.04
+- new report for zam.rek...
+- working on genrap for mapi
+
 ### 2021.11.03
 - working on application to permmisions > Angular 
-- 
 
 ### 2021.11.02
 - close year 2020 in SI
