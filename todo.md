@@ -22,6 +22,9 @@ TODO:star2:
 - kupić kabel iPhone magnes
 - light with sencore move 
 
+### 2021.11.05
+- talking about KG
+
 ### 2021.11.04
 - new report for zam.rek...
 - working on genrap for mapi
