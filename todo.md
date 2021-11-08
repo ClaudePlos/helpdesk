@@ -10,6 +10,7 @@ TODO:star2:
 - zwolnienie okolicznościowe blokada na grafikach 
 - wnioski obcokrajoców przefitrować na i.nap, tak by były widoczne zaakceptowane
 - api mail for end process in i.nap for not accept application for new employee and when someone accept your leave 
+- FZUL i R do rezerw rozliczających 
 
 ### Business Eng:
 - highly significant:
