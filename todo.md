@@ -13,7 +13,8 @@ TODO:star2:
 - FZUL i R do rezerw rozliczających 
 
 ### Business Eng:
-- highly significant:
+- highly significant
+- highly recommended
 - crucial 
 - in my point of view 
 - main keys
