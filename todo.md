@@ -21,11 +21,14 @@ TODO:star2:
 -  Dear users, the Cloud server will be upgraded at 01:00-03:00(UTC),Nov. 4,2021 in order to provide you with better service and experience. Your login during that time may affected, and the server will not be in service for about 1 hour. Thank you for your understanding.
 - comprehension - zrozumienie 
 
+### Pytania KG 
+- Konta syntetyczne, typ salda co to? 
+- 
+
 ### Home:
 
 ### Done: 
 - report for siet sandwich
-- 
 
 ### 2021.11.05
 - talking about KG
