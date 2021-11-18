@@ -2,6 +2,20 @@ Do zmiany:
 - refaktury 
 
 - Spółki cywilne (egadm1.nap_sc_pk)
-- PKPZ, zaciąganie danych z MAPI (naprzod2.nap_mapi_tools.dodajDekretyDoPK)
+- PKPZ, zaciąganie danych z MAPI (naprzod2.nap_mapi_tools.dodajDekretyDoPK) 314 / 301
 
+i.naprzod:
 - książka sekretariatu (kod na front backend i w pakiecie oracle)
+- pakiet naprzod2.napwf_fin_zobowiazania 
+
+- FZP faktury paliwowe (761 - pozostałe koszty operacyjne)
+- FZT fakutury za telefon (761)
+
+- faktury należnościowe (702 - konta przychodowe)
+
+
+- PZ i automaty do rozksięgowania 
+
+- PK - rezerwy urlopowe (301) > jak oznaczyć powiązane, niepowiązane? 
+- PK - rezerwy PZtów
+
