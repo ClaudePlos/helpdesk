@@ -1,12 +1,20 @@
 Do zmiany:
+
+Egeria:
+- Środki trwałe
+- Wyciągi bankowe (131 rachunki bankowe, 149 śrdoki w drodze)
+- Raporty kasowe (100, 148 środki w dordze kasy )
+
+i.naprzod:
+- książka sekretariatu (kod na front backend i w pakiecie oracle)
+- pakiet naprzod2.napwf_fin_zobowiazania 
+
 - refaktury 
 
 - Spółki cywilne (egadm1.nap_sc_pk)
 - PKPZ, zaciąganie danych z MAPI (naprzod2.nap_mapi_tools.dodajDekretyDoPK) 314 / 301
 
-i.naprzod:
-- książka sekretariatu (kod na front backend i w pakiecie oracle)
-- pakiet naprzod2.napwf_fin_zobowiazania 
+
 
 - FZP faktury paliwowe (761 - pozostałe koszty operacyjne)
 - FZT fakutury za telefon (761)
