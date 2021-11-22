@@ -38,17 +38,24 @@ eap_globals.USTAW_konsolidacje('N');
 end;
 
 declare
+new_knt_id number;
 begin
 for rek in (
 select snk_stare, snk_nowe
-, (select knt_pelny_numer from kg_konta where knt_id = snk_stare) konto_stare 
+,(select knt_pelny_numer from kg_konta where knt_id = snk_stare) konto_stare 
 ,(select knt_pelny_numer from kg_konta where knt_id = snk_nowe) konto_nowe  
- from KG_SYNCHRONIZACJA_KONT 
- where (select knt_pelny_numer from kg_konta where knt_id = snk_stare) like '200%'
-order by 1 
+ from KG_SYNCHRONIZACJA_KONT, KG_KONTA 
+ where knt_id = snk_stare
+   and knt_pelny_numer like '200%' and knt_pelny_numer like '200-0-000003'--'___-_-______'
+order by 3 
 )
 loop
-
+--
+select knt_id into new_knt_id
+ from kg_konta 
+where knt_rp_rok = 2022 
+  and knt_pelny_numer = substr(rek.konto_stare,0,4)||'0'||substr(rek.konto_stare,5);
+update KG_SYNCHRONIZACJA_KONT set snk_nowe = new_knt_id where snk_stare = rek.snk_stare;
 end loop;
 end;
 </pre>
