@@ -31,4 +31,4 @@ i.naprzod:
 
 DONE:
 Wzorzec na 301:
-![image info](https://mega.nz/file/pS4SADgS#GzjiAL4-Kfv6LFjpvab_qwQJ37xOHJwfsRX3wzVARYA)
+![image info](./jpg/kg_wzorzec_301_na _2022.png)
