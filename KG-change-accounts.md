@@ -29,6 +29,29 @@ i.naprzod:
 - PK - rezerwy urlopowe (301 rozliczenie zakupów poza grupą) > jak oznaczyć powiązane, niepowiązane? 
 - PK - rezerwy PZtów
 
-DONE:
+DONE: \
+Synchronizacja kont 200: 
+<pre>
+begin
+eap_globals.USTAW_firme(300322);
+eap_globals.USTAW_konsolidacje('N');
+end;
+
+declare
+begin
+for rek in (
+select snk_stare, snk_nowe
+, (select knt_pelny_numer from kg_konta where knt_id = snk_stare) konto_stare 
+,(select knt_pelny_numer from kg_konta where knt_id = snk_nowe) konto_nowe  
+ from KG_SYNCHRONIZACJA_KONT 
+ where (select knt_pelny_numer from kg_konta where knt_id = snk_stare) like '200%'
+order by 1 
+)
+loop
+
+end loop;
+end;
+</pre>
+
 Wzorzec na 301:
 <img src="./jpg/kg_wzorzec_301_na _2022.png">
