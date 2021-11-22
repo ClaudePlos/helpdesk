@@ -54,4 +54,4 @@ end;
 </pre>
 
 Wzorzec na 301:
-<img src="./jpg/kg_wzorzec_301_na _2022.png">
+<img src="./jpg/kg_wzorzec_301_na _2022_v02.png">
