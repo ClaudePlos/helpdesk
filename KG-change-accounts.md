@@ -31,4 +31,4 @@ i.naprzod:
 
 DONE:
 Wzorzec na 301:
-![image info](./jpg/kg_wzorzec_301_na _2022.png)
+![image info](jpg/kg_wzorzec_301_na _2022.png)
