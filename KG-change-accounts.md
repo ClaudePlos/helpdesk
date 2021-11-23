@@ -30,6 +30,23 @@ i.naprzod:
 - PK - rezerwy PZtów
 
 DONE: \
+Czy jest w grupie kapitałowej?
+<pre>
+select frm_id, frm_nazwa from eat_firmy where frm_kl_id in (
+select ck_kl_kod from CKK_CECHY_KLIENTOW where ck_ce_id = 100603)-- grupa kapitałowa
+
+declare
+l_czyGK boolean;
+begin
+l_czyGK := naprzod.nap_kg_tools.CZY_FRM_JEST_W_GRUPIE_KAP(300202);
+if l_czyGK then
+dbms_output.PUT_LINE('TRUE');
+else 
+dbms_output.PUT_LINE('FALSE');
+end if;
+end;
+</pre>
+
 Synchronizacja kont 200: 
 <pre>
 begin
