@@ -77,5 +77,5 @@ end loop;
 end;
 </pre>
 
-Wzorzec na 301:
+Wzorzec na 301: + slownik: NAP_KG_KONTA_POW_NIEPOW
 <img src="./jpg/kg_wzorzec_301_na _2022_v02.png">
