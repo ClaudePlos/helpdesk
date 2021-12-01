@@ -27,7 +27,9 @@ TODO:star2:
 - automat pod synchronizację 
 
 ### Home:
-Faktoring 
+- Faktoring 
+- Alior Bank
+- audyt kont 
 
 
 ### Done: 
