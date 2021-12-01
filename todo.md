@@ -27,6 +27,8 @@ TODO:star2:
 - automat pod synchronizację 
 
 ### Home:
+Faktoring 
+
 
 ### Done: 
 - report for siet sandwich
