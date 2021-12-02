@@ -47,7 +47,7 @@ end if;
 end;
 </pre>
 
-Synchronizacja kont 200: 
+## Synchronizacja kont 200: 
 <pre>
 begin
 eap_globals.USTAW_firme(300322);
@@ -83,7 +83,7 @@ Wzorzec na 301: + slownik: NAP_KG_KONTA_POW_NIEPOW
 
 
 
-# Synvchronizacja 999 -> 000-999
+## Synvchronizacja 999 -> 000-999
 <pre>
 begin
 eap_globals.USTAW_firme(300322);
