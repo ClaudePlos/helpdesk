@@ -27,8 +27,8 @@ TODO:star2:
 - automat pod synchronizację 
 
 ### Home:
+- Cartrack grafika
 - Faktoring 
-- Alior Bank
 - audyt kont 
 
 
