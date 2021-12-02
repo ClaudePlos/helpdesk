@@ -110,3 +110,47 @@ update KG_SYNCHRONIZACJA_KONT set snk_nowe = 10424790 where snk_stare = rek.snk_
 end loop;
 end;
 </pre>
+
+## Weyfikacja synchronizacji
+<pre>
+
+kg_zo1.sprawdz_mapowania
+
+  SELECT knt_pelny_numer
+      --  INTO v_knt_pelny_numer
+        FROM KG_SYNCHRONIZACJA_KONT, KG_KONTA
+       WHERE snk_stare = knt_id
+         AND knt_posiada_nastepny_seg_id IS NOT NULL
+         AND knt_typ = 'B'
+         AND ROWNUM = 1;
+
+		     SELECT 1
+        --INTO v_dummy
+        FROM KG_SYNCHRONIZACJA_KONT, KG_KONTA
+       WHERE snk_nowe = knt_id
+         AND knt_posiada_nastepny_seg_id IS NOT NULL
+         AND knt_typ = 'B';
+
+
+SELECT *
+       -- INTO v_knt_pelny_numer
+        FROM KG_SYNCHRONIZACJA_KONT, KG_KONTA
+       WHERE snk_stare = knt_id
+         AND knt_posiada_nastepny_seg_id IS NOT NULL
+         AND knt_typ = 'B'
+         AND ROWNUM = 1;
+		 
+		 
+		 
+		 SELECT KNT_ID, KNT_PELNY_NUMER, KNT_NAZWA
+    FROM KGV_KONTA
+   WHERE     knt_rp_rok = 2022 - 1
+     AND knt_posiada_nastepny_seg_id IS NULL
+     AND knt_typ = 'B'
+    and not exists (select 1
+                    from kg_synchronizacja_kont
+                    where  knt_id = snk_stare
+                    group by snk_stare
+                    having sum(snk_wspolczynnik) = 1
+                    )
+</pre>
