@@ -79,3 +79,34 @@ end;
 
 Wzorzec na 301: + slownik: NAP_KG_KONTA_POW_NIEPOW
 <img src="./jpg/kg_wzorzec_301_na _2022_v02.png">
+
+
+
+
+# Synvchronizacja 999 -> 000-999
+<pre>
+begin
+eap_globals.USTAW_firme(300322);
+eap_globals.USTAW_konsolidacje('N');
+end;
+
+declare
+new_knt_id number;
+begin
+for rek in (
+select * from (
+select snk_stare, snk_nowe
+,(select knt_pelny_numer from kg_konta where knt_id = snk_stare) konto_stare 
+,(select knt_pelny_numer from kg_konta where knt_id = snk_nowe) konto_nowe  
+ from KG_SYNCHRONIZACJA_KONT, KG_KONTA 
+ where knt_id = snk_nowe
+   and knt_pelny_numer like '999' 
+order by 3 
+) where konto_stare not like '5%'
+)
+loop
+--
+update KG_SYNCHRONIZACJA_KONT set snk_nowe = 10424790 where snk_stare = rek.snk_stare; --- konto 000-999
+end loop;
+end;
+</pre>
