@@ -29,6 +29,13 @@ i.naprzod:
 - PK - rezerwy urlopowe (301 rozliczenie zakupów poza grupą) > jak oznaczyć powiązane, niepowiązane? 
 - PK - rezerwy PZtów
 
+## Słownik - Wzorce
+<pre>
+NAP_KG_KONTA_SLOWNIK
++ warunek listy:
+and wsl_sl_nazwa = 'NAP_KG_KONTA_083_INWESTYCJE'
+</pre>
+
 DONE: \
 Czy jest w grupie kapitałowej?
 <pre>
