@@ -105,6 +105,7 @@ Wzorzec na 301: + slownik: NAP_KG_KONTA_POW_NIEPOW
 
 ## Synvchronizacja 999 -> 000-999
 <pre>
+
 begin
 eap_globals.USTAW_firme(300322);
 eap_globals.USTAW_konsolidacje('N');
