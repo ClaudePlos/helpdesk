@@ -175,3 +175,61 @@ SELECT *
                     having sum(snk_wspolczynnik) = 1
                     )
 </pre>
+
+## Update nazewnictwa 5% - Amortyzacja 
+<pre>
+
+
+select * from kg_konta 
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '5%-01-a01'
+   
+update kg_konta set knt_nazwa = 'Amortyzacja jednorazowa'
+, knt_nazwa2 = 'Amortyzacja jednorazowa'
+, knt_nazwa3 = 'Amortyzacja jednorazowa'
+, knt_nazwa4 = 'Amortyzacja jednorazowa'
+, knt_nazwa5 = 'Amortyzacja jednorazowa'
+, knt_nazwa6 = 'Amortyzacja jednorazowa'
+, knt_nazwa7 = 'Amortyzacja jednorazowa'
+, knt_nazwa8 = 'Amortyzacja jednorazowa'
+, knt_nazwa9 = 'Amortyzacja jednorazowa'
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '5%-01-a01' and knt_nazwa != 'Amortyzacja jednorazowa'
+   
+commit
+
+select * from kg_konta 
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '5%-01-a03'
+   
+update kg_konta set knt_nazwa = 'Amortyzacja w czasie OTW'
+, knt_nazwa2 = 'Amortyzacja w czasie OTW'
+, knt_nazwa3 = 'Amortyzacja w czasie OTW'
+, knt_nazwa4 = 'Amortyzacja w czasie OTW'
+, knt_nazwa5 = 'Amortyzacja w czasie OTW'
+, knt_nazwa6 = 'Amortyzacja w czasie OTW'
+, knt_nazwa7 = 'Amortyzacja w czasie OTW'
+, knt_nazwa8 = 'Amortyzacja w czasie OTW'
+, knt_nazwa9 = 'Amortyzacja w czasie OTW'
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '5%-01-a03' and knt_nazwa != 'Amortyzacja w czasie OTW' 
+   
+commit    
+
+
+select * from kg_konta 
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '5%-01-a05'
+   
+update kg_konta set knt_nazwa = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa2 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa3 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa4 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa5 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa6 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa7 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa8 = 'Amortyzacja NKUP (dot. samochodów)'
+, knt_nazwa9 = 'Amortyzacja NKUP (dot. samochodów)'
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '5%-01-a05' and knt_nazwa != 'Amortyzacja NKUP (dot. samochodów)' 
+</pre>
