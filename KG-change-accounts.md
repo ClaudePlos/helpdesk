@@ -178,11 +178,10 @@ SELECT *
 
 ## Update nazewnictwa 5% - Amortyzacja 
 <pre>
-
-
 select * from kg_konta 
  where knt_rp_rok = 2022
    and knt_pelny_numer like '5%-01-a01'
+   and knt_nazwa != 'Amortyzacja jednorazowa'
    
 update kg_konta set knt_nazwa = 'Amortyzacja jednorazowa'
 , knt_nazwa2 = 'Amortyzacja jednorazowa'
@@ -201,6 +200,7 @@ commit
 select * from kg_konta 
  where knt_rp_rok = 2022
    and knt_pelny_numer like '5%-01-a03'
+   and knt_nazwa != 'Amortyzacja w czasie OTW'
    
 update kg_konta set knt_nazwa = 'Amortyzacja w czasie OTW'
 , knt_nazwa2 = 'Amortyzacja w czasie OTW'
@@ -220,6 +220,7 @@ commit
 select * from kg_konta 
  where knt_rp_rok = 2022
    and knt_pelny_numer like '5%-01-a05'
+   and knt_nazwa != 'Amortyzacja NKUP (dot. samochodów)'
    
 update kg_konta set knt_nazwa = 'Amortyzacja NKUP (dot. samochodów)'
 , knt_nazwa2 = 'Amortyzacja NKUP (dot. samochodów)'
@@ -231,5 +232,5 @@ update kg_konta set knt_nazwa = 'Amortyzacja NKUP (dot. samochodów)'
 , knt_nazwa8 = 'Amortyzacja NKUP (dot. samochodów)'
 , knt_nazwa9 = 'Amortyzacja NKUP (dot. samochodów)'
  where knt_rp_rok = 2022
-   and knt_pelny_numer like '5%-01-a05' and knt_nazwa != 'Amortyzacja NKUP (dot. samochodów)' 
+   and knt_pelny_numer like '5%-01-a05' and knt_nazwa != 'Amortyzacja NKUP (dot. samochodów)'
 </pre>
