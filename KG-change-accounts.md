@@ -301,5 +301,29 @@ update kg_konta set knt_nazwa = 'Pożyczki z ZFŚS'
  where knt_rp_rok = 2022
    and knt_pelny_numer like '234-______-05' and knt_nazwa != 'Pożyczki z ZFŚS'
 
-   commit   
+   commit  
+   
+   
+   
+-- 02. marge account 08 on 09   
+
+begin
+eap_globals.USTAW_firme(300322);
+eap_globals.USTAW_konsolidacje('N');
+end;
+
+
+select kg_konta.*, frm_nazwa, substr(knt_pelny_numer, 0, 11)||'99'  from kg_konta, eat_firmy  
+ where knt_rp_rok = 2022 and knt_frm_id = frm_id
+   and knt_pelny_numer like '234-______-08'
+   
+update kg_konta set knt_numer_segmentu = '99', knt_pelny_numer = substr(knt_pelny_numer, 0, 11)||'99'
+ where knt_rp_rok = 2022 and knt_pelny_numer like '234-______-08' 
+
+select kg_konta.*, frm_nazwa, substr(knt_pelny_numer, 0, 11)||'99'  from kg_konta, eat_firmy  
+ where knt_rp_rok = 2022 and knt_frm_id = frm_id
+   and knt_pelny_numer like '234-______-99'
+ 
+commit    
+   
 </pre>
