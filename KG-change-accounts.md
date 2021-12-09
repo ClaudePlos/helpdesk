@@ -242,12 +242,12 @@ eap_globals.USTAW_firme(300322);
 eap_globals.USTAW_konsolidacje('N');
 end;
 
-
 -- 01. change name for 03, 04, , 05
+-- update for all companies:
 
-select * from kg_konta 
- where knt_rp_rok = 2022
-   and knt_pelny_numer like '234%03'
+select kg_konta.*, frm_nazwa from kg_konta, eat_firmy  
+ where knt_rp_rok = 2022 and knt_frm_id = frm_id
+   and knt_pelny_numer like '234-______-03'
    and knt_nazwa != 'Karty sportowe Fit Profit'
    
 update kg_konta set knt_nazwa = 'Karty sportowe Fit Profit'
@@ -260,7 +260,5 @@ update kg_konta set knt_nazwa = 'Karty sportowe Fit Profit'
 , knt_nazwa8 = 'Karty sportowe Fit Profit'
 , knt_nazwa9 = 'Karty sportowe Fit Profit'
  where knt_rp_rok = 2022
-   and knt_pelny_numer like '234%03' and knt_nazwa != 'Karty sportowe Fit Profit'
-
-   commit
+   and knt_pelny_numer like '234-______-03' and knt_nazwa != 'Karty sportowe Fit Profit'
 </pre>
