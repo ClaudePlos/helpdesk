@@ -234,3 +234,33 @@ update kg_konta set knt_nazwa = 'Amortyzacja NKUP (dot. samochodów)'
  where knt_rp_rok = 2022
    and knt_pelny_numer like '5%-01-a05' and knt_nazwa != 'Amortyzacja NKUP (dot. samochodów)'
 </pre>
+
+#### Zmiana nazw i synchro konta 234%
+<pre>
+begin
+eap_globals.USTAW_firme(300322);
+eap_globals.USTAW_konsolidacje('N');
+end;
+
+
+-- 01. change name for 03, 04, , 05
+
+select * from kg_konta 
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '234%03'
+   and knt_nazwa != 'Karty sportowe Fit Profit'
+   
+update kg_konta set knt_nazwa = 'Karty sportowe Fit Profit'
+, knt_nazwa2 = 'Karty sportowe Fit Profit'
+, knt_nazwa3 = 'Karty sportowe Fit Profit'
+, knt_nazwa4 = 'Karty sportowe Fit Profit'
+, knt_nazwa5 = 'Karty sportowe Fit Profit'
+, knt_nazwa6 = 'Karty sportowe Fit Profit'
+, knt_nazwa7 = 'Karty sportowe Fit Profit'
+, knt_nazwa8 = 'Karty sportowe Fit Profit'
+, knt_nazwa9 = 'Karty sportowe Fit Profit'
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '234%03' and knt_nazwa != 'Karty sportowe Fit Profit'
+
+   commit
+</pre>
