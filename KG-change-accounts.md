@@ -261,4 +261,25 @@ update kg_konta set knt_nazwa = 'Karty sportowe Fit Profit'
 , knt_nazwa9 = 'Karty sportowe Fit Profit'
  where knt_rp_rok = 2022
    and knt_pelny_numer like '234-______-03' and knt_nazwa != 'Karty sportowe Fit Profit'
+   
+   
+----   
+select kg_konta.*, frm_nazwa from kg_konta, eat_firmy  
+ where knt_rp_rok = 2022 and knt_frm_id = frm_id
+   and knt_pelny_numer like '234-______-04'
+   and knt_nazwa != 'Zbieg egzekucji komorniczej'
+   
+update kg_konta set knt_nazwa = 'Zbieg egzekucji komorniczej'
+, knt_nazwa2 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa3 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa4 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa5 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa6 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa7 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa8 = 'Zbieg egzekucji komorniczej'
+, knt_nazwa9 = 'Zbieg egzekucji komorniczej'
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '234-______-04' and knt_nazwa != 'Zbieg egzekucji komorniczej'
+
+   commit      
 </pre>
