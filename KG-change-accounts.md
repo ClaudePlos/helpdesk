@@ -242,7 +242,7 @@ eap_globals.USTAW_firme(300322);
 eap_globals.USTAW_konsolidacje('N');
 end;
 
--- 01. change name for 03, 04, , 05
+-- 01. change name for 03, 04, 05
 -- update for all companies:
 
 select kg_konta.*, frm_nazwa from kg_konta, eat_firmy  
