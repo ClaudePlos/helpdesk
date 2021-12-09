@@ -281,5 +281,25 @@ update kg_konta set knt_nazwa = 'Zbieg egzekucji komorniczej'
  where knt_rp_rok = 2022
    and knt_pelny_numer like '234-______-04' and knt_nazwa != 'Zbieg egzekucji komorniczej'
 
-   commit      
+   commit   
+   
+-----
+select kg_konta.*, frm_nazwa from kg_konta, eat_firmy  
+ where knt_rp_rok = 2022 and knt_frm_id = frm_id
+   and knt_pelny_numer like '234-______-05'
+   and knt_nazwa != 'Pożyczki z ZFŚS'
+   
+update kg_konta set knt_nazwa = 'Pożyczki z ZFŚS'
+, knt_nazwa2 = 'Pożyczki z ZFŚS'
+, knt_nazwa3 = 'Pożyczki z ZFŚS'
+, knt_nazwa4 = 'Pożyczki z ZFŚS'
+, knt_nazwa5 = 'Pożyczki z ZFŚS'
+, knt_nazwa6 = 'Pożyczki z ZFŚS'
+, knt_nazwa7 = 'Pożyczki z ZFŚS'
+, knt_nazwa8 = 'Pożyczki z ZFŚS'
+, knt_nazwa9 = 'Pożyczki z ZFŚS'
+ where knt_rp_rok = 2022
+   and knt_pelny_numer like '234-______-05' and knt_nazwa != 'Pożyczki z ZFŚS'
+
+   commit   
 </pre>
