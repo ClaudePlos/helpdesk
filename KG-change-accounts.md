@@ -1,4 +1,4 @@
-Do zmiany:
+# Do zmiany:
 
 Egeria:
 - Środki trwałe
