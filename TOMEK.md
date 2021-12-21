@@ -81,7 +81,7 @@ order by 1, 2
 
 3. dalsza analiza po dokumentach
 select tab1.* , (select dok_numer_wlasny from kgt_dokumenty, gmt_pozycje_dokumentow where pdok_dok_id = dok_id and pdok_id = tab1.pdok_def_1) pz, pz_war + spr_pz roznica  from (
-select to_char(dok_data_zaksiegowania,'YYYY-MM') okres, tow_indeks, dok_numer_wlasny, sum(case when dok_rdok_kod = 'WZ' then -pdok_wartosc else pdok_wartosc end) pz_war, pdok_def_1
+select to_char(dok_data_zaksiegowania,'YYYY-MM') okres, tow_indeks, dok_numer_wlasny, -sum(pdok_wartosc) pz_war, pdok_def_1
  ,(select pdok_wartosc from gmt_pozycje_dokumentow where pdok_id = pd1.pdok_def_1) spr_pz
   from kgt_dokumenty, gmt_pozycje_dokumentow pd1, css_towary
  where pdok_dok_id = dok_id
@@ -90,11 +90,15 @@ select to_char(dok_data_zaksiegowania,'YYYY-MM') okres, tow_indeks, dok_numer_wl
    and dok_f_zatwierdzony = 'T'
    and (dok_numer_wlasny like 'WZ%' or dok_numer_wlasny like 'RWOT%')
    and DOK_MAG_OB_ID_W = 101317 -- id magazynu
-   and tow_indeks = '50B006'
-   and dok_data_zaksiegowania between '2021-01-01' and '2021-09-30' 
+   and tow_indeks in ('50B006',
+'501226',
+'50B168',
+'502176',
+'503135')
+   and dok_data_zaksiegowania between '2021-01-01' and '2021-01-31' 
 group by to_char(dok_data_zaksiegowania,'YYYY-MM'), tow_indeks, dok_numer_wlasny, pdok_def_1
-) tab1 where pz_war + spr_pz != 0
-order by 1, 2, 3
+) tab1 --where pz_war + spr_pz != 0
+order by 2, 1, 3
 
 </pre>
 
