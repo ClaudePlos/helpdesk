@@ -1,5 +1,45 @@
--- TOMEK
--- 2021.09.16 odpisałem na maila różnica na 150 zł w sytczniu w nap catering PZ a faktura 
+#### 2021.12.21 
+#### Porównianie PZ do generowanych WZ: konto 314-11
+<pre>
+select sum(ks_wart) from (
+select dok_id, dok_numer_wlasny, pz_wart, ks_wart, pz_wart - ks_wart spr from (
+ select dok_id, dok_numer_wlasny, sum(pdok_wartosc) pz_wart
+ , (select sum(ks_kwota) from kgt_ksiegowania where ks_dok_id = dok_id) ks_wart
+  from kgt_dokumenty, gmt_pozycje_dokumentow
+ where pdok_dok_id = dok_id
+   and dok_f_wstrzymany = 'N'
+   and dok_f_zatwierdzony = 'T'
+   and dok_numer_wlasny like 'PZ%'
+   and DOK_MAG_OB_ID_W = 101317 -- id magazynu
+   and dok_data_zaksiegowania between '2021-01-01' and '2021-09-30' 
+group by dok_id, dok_numer_wlasny
+) 
+order by 2
+)
+
+select sum(ks_kwota) from kgt_ksiegowania where ks_dok_id = 9441644
+
+
+select sum(ks_wart) from (
+select dok_id, dok_numer_wlasny, pz_wart, ks_wart, pz_wart - ks_wart spr from (
+ select dok_id, dok_numer_wlasny, sum(pdok_wartosc) pz_wart
+ , (select sum(ks_kwota) from kgt_ksiegowania where ks_dok_id = dok_id) ks_wart
+  from kgt_dokumenty, gmt_pozycje_dokumentow
+ where pdok_dok_id = dok_id
+   and dok_f_wstrzymany = 'N'
+   and dok_f_zatwierdzony = 'T'
+   and (dok_numer_wlasny like 'WZ%' or dok_numer_wlasny like 'RWOT%')
+   and DOK_MAG_OB_ID_W = 101317 -- id magazynu
+   and dok_data_zaksiegowania between '2021-01-01' and '2021-09-30' 
+group by dok_id, dok_numer_wlasny
+) 
+order by 2
+)
+</pre>
+
+
+
+#### 2021.09.16 odpisałem na maila różnica na 150 zł w sytczniu w nap catering PZ a faktura 
 
 #### 2021.05.31
 #### rożnica RWOT a OTW
