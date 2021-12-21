@@ -1,6 +1,7 @@
 #### 2021.12.21 
-#### Porównianie PZ do generowanych WZ: konto 314-11
+#### Porównianie PZ do generowanych WZ: konto 314-11 wykaz dal WN i MA. Jeżeli saldo jest różne to przejdź do B:
 <pre>
+A: 
 select sum(ks_wart) from (
 select dok_id, dok_numer_wlasny, pz_wart, ks_wart, pz_wart - ks_wart spr from (
  select dok_id, dok_numer_wlasny, sum(pdok_wartosc) pz_wart
