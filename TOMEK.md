@@ -38,7 +38,8 @@ order by 2
 )
 
 
-B:
+B: 
+1. -- nalezienie różnic
 select * from (
 select tow_indeks, sum(pz_wart) spr from (
 select tow_indeks, sum(pdok_wartosc) pz_wart 
@@ -49,7 +50,7 @@ select tow_indeks, sum(pdok_wartosc) pz_wart
    and dok_f_zatwierdzony = 'T'
    and dok_numer_wlasny like 'PZ%'
    and DOK_MAG_OB_ID_W = 101317 -- id magazynu
-   and dok_data_zaksiegowania between '2021-01-01' and '2021-01-31' 
+   and dok_data_zaksiegowania between '2021-01-01' and '2021-09-30' 
 group by tow_indeks
 union all
 select tow_indeks, - sum(pdok_wartosc) pz_wart 
@@ -60,9 +61,12 @@ select tow_indeks, - sum(pdok_wartosc) pz_wart
    and dok_f_zatwierdzony = 'T'
    and (dok_numer_wlasny like 'WZ%' or dok_numer_wlasny like 'RWOT%')
    and DOK_MAG_OB_ID_W = 101317 -- id magazynu
-   and dok_data_zaksiegowania between '2021-01-01' and '2021-01-31' 
+   and dok_data_zaksiegowania between '2021-01-01' and '2021-09-30' 
 group by tow_indeks)
 group by tow_indeks) where spr != 0
+
+2. analiza różnic
+
 </pre>
 
 
