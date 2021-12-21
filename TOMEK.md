@@ -36,6 +36,8 @@ group by dok_id, dok_numer_wlasny
 ) 
 order by 2
 )
+
+
 B:
 select * from (
 select tow_indeks, sum(pz_wart) spr from (
