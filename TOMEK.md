@@ -1,8 +1,9 @@
 -- TOMEK
 -- 2021.09.16 odpisałem na maila różnica na 150 zł w sytczniu w nap catering PZ a faktura 
 
--- 2021.05.31
--- rożnica RWOT a OTW
+#### 2021.05.31
+#### rożnica RWOT a OTW
+<pre>
 select tow_nazwa, sum(pdok_ilosc_dys) ilosc_dys, sum(pdok_ilosc_rea) ilosc_rea, sum(pdok_wartosc) wart_z_RWOT
 , (select count(1) ilosc from stt_Srodki_dane , kgt_dokumenty where dok_sdn_s_id = sdn_s_id and dok_sdn_id = sdn_id
     and sdn_nazwa = tow_nazwa
@@ -16,7 +17,7 @@ from GMT_POZYCJE_DOKUMENTOW gm, kgt_dokumenty, css_towary
    and dok_rdok_kod = 'RWOT'
    and to_char(dok_data_zaksiegowania, 'YYYY-MM') = '2021-03' 
    group by tow_nazwa order by tow_nazwa
-
+</pre>
 
 ,'KSPZUOPM'
 
@@ -25,7 +26,7 @@ from GMT_POZYCJE_DOKUMENTOW gm, kgt_dokumenty, css_towary
 Nowe raporty:
 EGERIA GM > 20 Wykaz PZ i KPZ
 
-
+<pre>
 
 ----- 2020.04.09
 -- PZ w danym miesiący bz PK w firmie docelowej
@@ -187,4 +188,4 @@ and ks_knt_wn = knt_id
 group by frm_nazwa, dok_numer_wlasny, to_char(dok_data_zaksiegowania, 'YYYY-MM'), substr(knt_pelny_numer,5,4) 
 order by frm_nazwa, substr(knt_pelny_numer,5,4)
 
-
+</pre>
