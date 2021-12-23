@@ -24,10 +24,12 @@ docker ps -a \
 get ID \
 docker container start ID \
 and close cmd :) 
-7. Close to coitarnet from new cmd: \
-docker ps \
-get ID \
+7. Close to coitarnet from new cmd: 
+<pre>
+docker ps 
+get ID 
 docker container stop ID 
+</[re>
 
 8. Remove image
 <pre>
