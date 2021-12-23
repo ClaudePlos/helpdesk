@@ -29,6 +29,11 @@ docker ps \
 get ID \
 docker container stop ID 
 
+8. Remove image
+<pre>
+docker rm ID
+</pre>
+
 ## Update project 
 1.
 
