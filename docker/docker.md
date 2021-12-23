@@ -33,9 +33,15 @@ get ID
 docker container stop ID 
 </pre>
 
-8. Remove image
+8. Remove container
 <pre>
 docker container rm ID
+</pre>
+
+9. Remove image
+<pre>
+sude docker images > and get ID
+docker image rm ID
 </pre>
 
 ## Update project 
