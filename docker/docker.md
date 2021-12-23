@@ -19,11 +19,13 @@ docker build -t nap_tenders . << this dot is important
 5. Run with ports and add to the list containers: \
 docker run -p8181:8181 nap_tenders \
 ( now you have run and you can test on browser https://localhost:8181 If you close cmd in windows or shell the container will stop )
-6. Now you can start container and close cmd: \
-docker ps -a \
-get ID \
-docker container start ID \
+6. Now you can start container and close cmd: 
+<pre>
+docker ps -a 
+get ID 
+docker container start ID 
 and close cmd :) 
+</pre>
 7. Close to coitarnet from new cmd: 
 <pre>
 docker ps 
