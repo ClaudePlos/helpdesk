@@ -29,7 +29,7 @@ and close cmd :)
 docker ps 
 get ID 
 docker container stop ID 
-</[re>
+</pre>
 
 8. Remove image
 <pre>
