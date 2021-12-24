@@ -3,7 +3,8 @@ geoportal.gov.pl
 
 https://youtu.be/WDwhJNbWka0
 
-https://www.photopea.com/ - photoshop online for free
+Photoshop online for free: https://www.photopea.com/ 
+API for free: https://rapidapi.com/hub
 
 TODO:star2:
 - apka do testowania, czy strona działa 
