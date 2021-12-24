@@ -1,12 +1,11 @@
 NFOŚiGW
 geoportal.gov.pl
 
-https://youtu.be/WDwhJNbWka0
+https://youtu.be/WDwhJNbWka0 \
 
-<pre>
-Photoshop online for free: https://www.photopea.com/ 
-API for free: https://rapidapi.com/hub
-</pre>
+Photoshop online for free: https://www.photopea.com/ \
+API for free: https://rapidapi.com/hub \
+
 
 TODO:star2:
 - apka do testowania, czy strona działa 
