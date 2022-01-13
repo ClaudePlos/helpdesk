@@ -52,3 +52,20 @@ docker images \
 docker ps (only run container) \
 docker ps -a (all container, run and stop container)
 
+
+
+## RESTART MACHINE LINUX
+<pre>
+After restart:
+sudo service docker start
+and when started then:
+sudo docker ps -a
+and run impages frim the list
+sudo docker contatiner start ID
+
+Other commands:
+sudo service docker status
+sudo service docker restart
+
+</pre>
+
