@@ -7,6 +7,8 @@ https://youtu.be/FlSup_eelYE
 
 https://youtu.be/GDa8kZLNhJ4
 
+https://cookbook.vaadin.com/
+
 Photoshop online for free: https://www.photopea.com/ \
 API for free: https://rapidapi.com/hub \
 
