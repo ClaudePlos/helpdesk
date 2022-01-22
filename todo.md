@@ -9,6 +9,8 @@ https://youtu.be/GDa8kZLNhJ4
 
 https://cookbook.vaadin.com/
 
+https://youtu.be/ueyVjOnDHYQ
+
 Photoshop online for free: https://www.photopea.com/ \
 API for free: https://rapidapi.com/hub \
 
