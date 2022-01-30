@@ -7,7 +7,7 @@ https://youtu.be/WDwhJNbWka0
 
 https://youtu.be/FlSup_eelYE
 
-https://youtu.be/GDa8kZLNhJ4
+https://youtu.be/GDa8kZLNhJ4 -- React app
 
 https://cookbook.vaadin.com/
 
