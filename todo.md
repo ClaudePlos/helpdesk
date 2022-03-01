@@ -1,8 +1,6 @@
 NFOŚiGW
 geoportal.gov.pl
 
-Kapsel
-
 https://youtu.be/WDwhJNbWka0 
 
 https://youtu.be/FlSup_eelYE
@@ -29,6 +27,8 @@ TODO:star2:
 - FZUL i R do rezerw rozliczających 
 
 ### Business Eng:
+- strict - srogi 
+- obligatory - obowiązkowe
 - immensely relevant (crucial)
 - highly significant
 - highly recommended
