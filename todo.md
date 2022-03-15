@@ -1,3 +1,7 @@
+Milosz:
+1. ustawienie konta 999
+2. ustalenie odnosnie nowych ustalen w generacjifaktur do aplikacji eFaktura dla przetargów 
+
 NFOŚiGW
 geoportal.gov.pl
 
