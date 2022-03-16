@@ -1,6 +1,7 @@
 Milosz:
 1. ustawienie konta 999
 2. ustalenie odnosnie nowych ustalen w generacjifaktur do aplikacji eFaktura dla przetargów 
+3. Uruchomienie produkcyjne Agencji Pracy i kolejny temat dodawania pasków od strony Agencji 
 
 NFOŚiGW
 geoportal.gov.pl
