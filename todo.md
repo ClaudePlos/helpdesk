@@ -4,6 +4,7 @@ Milosz:
 3. Uruchomienie produkcyjne Agencji Pracy i kolejny temat dodawania pasków od strony Agencji 
 4. Przy nazwisku dodać czy uchodźca na i.naprzod
 5. Triomed - uruchomienie i.naprzod
+6. Zmiana alokacji kosztów 
 
 NFOŚiGW
 geoportal.gov.pl
