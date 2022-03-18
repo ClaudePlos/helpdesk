@@ -4,7 +4,8 @@ Milosz:
 3. Uruchomienie produkcyjne Agencji Pracy i kolejny temat dodawania pasków od strony Agencji 
 4. Przy nazwisku dodać czy uchodźca na i.naprzod
 5. Triomed - uruchomienie i.naprzod
-6. Zmiana alokacji kosztów 
+6. Zmiana alokacji kosztów 5,2
+7. Qlik, dodanie raportu weryfikacji stanów magazynowych i raportów kasowych
 
 NFOŚiGW
 geoportal.gov.pl
