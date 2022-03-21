@@ -6,7 +6,9 @@ Milosz:
 5. Triomed - uruchomienie i.naprzod
 6. Zmiana alokacji kosztów 5,2
 7. Qlik, dodanie raportu weryfikacji stanów magazynowych i raportów kasowych
-8. Synchronizacja kont mailowych, wystawienie widoku 
+8. Synchronizacja kont mailowych, wystawienie
+ widoku 
+9. Spotkanie odnośnie zmiany omów na kontrakcie przez wyjście z konsorcjum nap marketing
 
 NFOŚiGW
 geoportal.gov.pl
