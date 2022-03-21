@@ -9,6 +9,7 @@ Milosz:
 8. Synchronizacja kont mailowych, wystawienie
  widoku 
 9. Spotkanie odnośnie zmiany omów na kontrakcie przez wyjście z konsorcjum nap marketing
+10. Pole uchodźca na i.naprzod przy zatrudnianiu pracownika 
 
 NFOŚiGW
 geoportal.gov.pl
