@@ -17,6 +17,10 @@ Home:
 3. Malowanie konstrukcji przed domem
 4. kupić kołki ponad 20 cm i próba zawieszenia sówitu pod kanapę orac drewniane klocki, pomalować 
 
+Shop:
+1. landrynki
+2. czekolada gorzka 
+
 NFOŚiGW
 geoportal.gov.pl
 
