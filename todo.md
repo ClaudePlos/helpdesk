@@ -1,15 +1,21 @@
 Milosz:
+1. Pole uchodźca na i.naprzod przy zatrudnianiu pracownika DONE
+2. Kopiowanie kont z konta szablon, dodatkowe prace po naszej stronie 
+3. Triomed - uruchomienie i.naprzod
+
 1. ustawienie konta 999
 2. ustalenie odnosnie nowych ustalen w generacjifaktur do aplikacji eFaktura dla przetargów 
 3. Uruchomienie produkcyjne Agencji Pracy i kolejny temat dodawania pasków od strony Agencji 
-4. Przy nazwisku dodać czy uchodźca na i.naprzod
-5. Triomed - uruchomienie i.naprzod
 6. Zmiana alokacji kosztów 5,2
 7. Qlik, dodanie raportu weryfikacji stanów magazynowych i raportów kasowych
-8. Synchronizacja kont mailowych, wystawienie
- widoku 
+8. Synchronizacja kont mailowych, wystawienie widoku 
 9. Spotkanie odnośnie zmiany omów na kontrakcie przez wyjście z konsorcjum nap marketing
-10. Pole uchodźca na i.naprzod przy zatrudnianiu pracownika 
+
+Home:
+1. Telefon do geodety
+2. Malowanie sówitu na biąło
+3. Malowanie konstrukcji przed domem
+4. kupić kołki ponad 20 cm i próba zawieszenia sówitu pod kanapę orac drewniane klocki, pomalować 
 
 NFOŚiGW
 geoportal.gov.pl
