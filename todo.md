@@ -1,3 +1,4 @@
+<pre>
 Milosz:
 1. Pole uchodźca na i.naprzod przy zatrudnianiu pracownika DONE
 2. Kopiowanie kont z konta szablon, dodatkowe prace po naszej stronie 
@@ -22,6 +23,8 @@ Home:
 Shop:
 1. landrynki
 2. czekolada gorzka 
+
+</pre>
 
 NFOŚiGW
 geoportal.gov.pl
