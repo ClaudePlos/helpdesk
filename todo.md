@@ -2,6 +2,7 @@ Milosz:
 1. Pole uchodźca na i.naprzod przy zatrudnianiu pracownika DONE
 2. Kopiowanie kont z konta szablon, dodatkowe prace po naszej stronie 
 3. Triomed - uruchomienie i.naprzod
+4. Alokacja kosztów, dodanie algorytmu PK poprawiania na ostatni dzień otawrty okresy, jeżeli zaszły zmiany przesunięcia kontraktów do innych kuchni 
 
 1. ustawienie konta 999
 2. ustalenie odnosnie nowych ustalen w generacjifaktur do aplikacji eFaktura dla przetargów 
