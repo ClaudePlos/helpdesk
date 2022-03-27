@@ -20,6 +20,7 @@ Home:
 3. Malowanie konstrukcji przed domem
 4. kupić kołki ponad 20 cm i próba zawieszenia sówitu pod kanapę orac drewniane klocki, pomalować 
 5. Płyta osb i papa i przeciąć na pol 60 i reszta 
+6. Cement pod kostkę, taki rozrobioną już w worku. 
 
 Shop:
 1. landrynki
