@@ -16,15 +16,13 @@ Milosz:
 
 Home:
 1. Telefon do geodety
-2. Malowanie sówitu na biąło
 3. Malowanie konstrukcji przed domem
 4. kupić kołki ponad 20 cm i próba zawieszenia sówitu pod kanapę orac drewniane klocki, pomalować 
 5. Płyta osb i papa i przeciąć na pol 60 i reszta 
 6. Cement pod kostkę, taki rozrobioną już w worku. 
 
 Shop:
-1. landrynki
-2. czekolada gorzka 
+
 
 </pre>
 
