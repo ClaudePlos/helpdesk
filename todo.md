@@ -7,6 +7,7 @@ Milosz:
 5. Grafiki, dodatkowe walidacje, które sprawdzą czy pracownik ma zgodę na pracę 8g, 12g itd.
 6. Blokada archiwizowanie SK, sprawdzenie czy umowy przeniesone i czy czasem nie ma środków na obiekcie przed zmianą na arch.
 7. Raport przed amortyzacją, sprawdzenie czy SK nie są arch.
+8. Automt do łączenia korekt przy księgowaniu list płac. Poszukiwanie wolnego salda w płatnościach.
 
 1. ustawienie konta 999
 2. ustalenie odnosnie nowych ustalen w generacjifaktur do aplikacji eFaktura dla przetargów 
