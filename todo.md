@@ -9,6 +9,7 @@ Milosz:
 7. Raport przed amortyzacją, sprawdzenie czy SK nie są arch.
 8. Automt do łączenia korekt przy księgowaniu list płac. Poszukiwanie wolnego salda w płatnościach.
 9. Specjalna informacja na i.naprzod, że bez umowy jest kara 
+10. Agencej, karty, dodanie SK i godzin od, do wydruk.
 
 1. ustawienie konta 999
 2. ustalenie odnosnie nowych ustalen w generacjifaktur do aplikacji eFaktura dla przetargów 
