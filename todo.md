@@ -34,6 +34,8 @@ Shop:
 NFOŚiGW
 geoportal.gov.pl
 
+https://pomocwangielskim.pl/email-po-angielsku
+
 https://youtu.be/WDwhJNbWka0 
 
 https://youtu.be/FlSup_eelYE
