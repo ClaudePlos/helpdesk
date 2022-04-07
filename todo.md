@@ -8,7 +8,7 @@ Milosz:
 6. Blokada archiwizowanie SK, sprawdzenie czy umowy przeniesone i czy czasem nie ma środków na obiekcie przed zmianą na arch.
 7. Raport przed amortyzacją, sprawdzenie czy SK nie są arch.
 8. Automt do łączenia korekt przy księgowaniu list płac. Poszukiwanie wolnego salda w płatnościach.
-9. Specjalna informacja na i.naprzod, że bez umowy jest kara 
+9. Specjalna informacja na i.naprzod, że bez umowy jest kara.
 10. Agencej, karty, dodanie SK i godzin od, do wydruk.
 
 1. ustawienie konta 999
