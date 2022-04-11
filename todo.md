@@ -62,6 +62,7 @@ TODO:star2:
 - FZUL i R do rezerw rozliczających 
 
 ### Business Eng:
+- appoint a meeting - umówić spotkanie
 - strict - srogi 
 - obligatory - obowiązkowe
 - immensely relevant (crucial)
