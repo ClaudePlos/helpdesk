@@ -1,3 +1,6 @@
+Bpc ask:
+1. W account_map co to są te X
+
 <pre>
 Milosz:
 1. Pole uchodźca na i.naprzod przy zatrudnianiu pracownika DONE
