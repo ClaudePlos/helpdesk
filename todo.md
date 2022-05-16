@@ -1,6 +1,8 @@
 Bpc ask:
 1. W account_map co to są te X i co to Exlude
 2. Control_cheks ?? Co robi
+3. Mail Federica
+4. Profit and Lost manual - co to?
 
 
 
