@@ -29,6 +29,7 @@ Milosz:
 9. Spotkanie odnośnie zmiany omów na kontrakcie przez wyjście z konsorcjum nap marketing
 
 1. Confluance pakiet do 50 
+2. Sla 
 
 Home:
 1. Telefon do geodety
