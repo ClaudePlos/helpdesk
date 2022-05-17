@@ -32,6 +32,7 @@ Milosz:
 2. Sla 
 3. 12:00 demo Bpc
 4. Confluance do Bpc 
+5. Spotkanie z bordem w czwartek 
 
 Home:
 1. Telefon do geodety
