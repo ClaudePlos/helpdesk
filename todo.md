@@ -4,7 +4,11 @@ Bpc ask:
 3. Mail Federica
 4. Profit and Lost manual - co to? Bilans manual tez 
 
-
+Bartek:
+2. Sla 
+3. 12:00 demo Bpc
+4. Confluance do Bpc (wstępnie Sławek)
+5. Spotkanie z bordem w czwartek 
 
 
 <pre>
@@ -28,11 +32,8 @@ Milosz:
 8. Synchronizacja kont mailowych, wystawienie widoku 
 9. Spotkanie odnośnie zmiany omów na kontrakcie przez wyjście z konsorcjum nap marketing
 
-1. Confluance pakiet do 50 
-2. Sla 
-3. 12:00 demo Bpc
-4. Confluance do Bpc 
-5. Spotkanie z bordem w czwartek 
+
+
 
 Home:
 1. Telefon do geodety
