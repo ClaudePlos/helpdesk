@@ -30,6 +30,8 @@ Milosz:
 
 1. Confluance pakiet do 50 
 2. Sla 
+3. 12:00 demo Bpc
+4. Confluance do Bpc 
 
 Home:
 1. Telefon do geodety
