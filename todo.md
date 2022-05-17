@@ -2,7 +2,8 @@ Bpc ask:
 1. W account_map co to są te X i co to Exlude
 2. Control_cheks ?? Co robi
 3. Mail Federica
-4. Profit and Lost manual - co to?
+4. Profit and Lost manual - co to? Bilans manual tez 
+
 
 
 
@@ -26,6 +27,8 @@ Milosz:
 7. Qlik, dodanie raportu weryfikacji stanów magazynowych i raportów kasowych
 8. Synchronizacja kont mailowych, wystawienie widoku 
 9. Spotkanie odnośnie zmiany omów na kontrakcie przez wyjście z konsorcjum nap marketing
+
+1. Confluance pakiet do 50 
 
 Home:
 1. Telefon do geodety
