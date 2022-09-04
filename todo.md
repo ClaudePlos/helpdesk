@@ -1,6 +1,7 @@
 Mm:
 1. Rice wine ask
-2. 
+2. Batery x2
+3. Book kubernetes
 
 Bpc ask:
 1. W account_map co to są te X i co to Exlude
