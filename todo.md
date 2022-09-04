@@ -1,3 +1,7 @@
+Mm:
+1. Rice wine ask
+2. 
+
 Bpc ask:
 1. W account_map co to są te X i co to Exlude
 2. Control_cheks ?? Co robi
